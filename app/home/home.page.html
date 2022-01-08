@@ -1,20 +1,32 @@
-<ion-header [translucent]="true">
+<ion-header>
   <ion-toolbar>
     <ion-title>
-      Blank
+      User Location
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
-<ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Blank</ion-title>
-    </ion-toolbar>
-  </ion-header>
+<ion-content>
+  <ion-button (click)="geoInformation()" color="primary">
+    Get Device Location
+  </ion-button>
 
-  <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
-  </div>
+  <ion-item>
+    <strong>Location Information</strong>
+  </ion-item>
+
+  <ion-item>
+    <ion-label>Latitue</ion-label>
+    <ion-badge color="secondary">{{lat}}</ion-badge>
+  </ion-item>
+
+  <ion-item>
+    <ion-label>Longitude</ion-label>
+    <ion-badge color="tertiary">{{long}}</ion-badge>
+  </ion-item>
+
+  <ion-item>
+    <ion-label><strong>Accuracy</strong></ion-label>
+    <ion-badge>{{ accuracy }}</ion-badge>
+  </ion-item>
 </ion-content>
