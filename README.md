@@ -32,9 +32,6 @@ Arduino
 
 Module WIFI ESP32
 
-## Frontend
-ionic serve
-
 ## Backend
 npm start server.js pour mettre le serveur en marche et ionic serve pour que l'application soit lancée.
 
