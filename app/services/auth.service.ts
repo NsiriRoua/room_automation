@@ -46,7 +46,7 @@ codeChallenge = this.base64URLEncode((hmacsha256(this.codeVerifier, this.sha256S
 
 
 
-ogin(postData: any): Observable<any> {
+login(postData: any): Observable<any> {
 return this.httpService.post('api/login', postData);
 }
 
