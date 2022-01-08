@@ -36,16 +36,6 @@ codeVerifier = this.strRandom(128);
 codeChallenge = this.base64URLEncode((hmacsha256(this.codeVerifier, this.sha256Secret));
 
 
-
-
-
-
-
-
-
-
-
-
 login(postData: any): Observable<any> {
 return this.httpService.post('api/login', postData);
 }
