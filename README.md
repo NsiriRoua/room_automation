@@ -1,4 +1,4 @@
-# room_automation
+# Room Automation System 
 ## Problématique
 Assurer la sécurité de la maison est devenu primordial depuis que les incidents comme les
 courts-circuits, les incendies ou encore l’utilisation excessive de l'électricité sont devenus très
