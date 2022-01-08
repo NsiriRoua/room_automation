@@ -25,7 +25,7 @@ MongoDB
 Mosquitto Broker
 
 MQTT
-## Matériel utilisé pour l'IoT
+## matériel utilisé pour l'IoT
 DHT22
 
 Arduino
@@ -34,4 +34,14 @@ Module WIFI ESP32
 
 ## Backend
 npm start server.js pour mettre le serveur en marche et ionic serve pour que l'application soit lancée.
+
+
+
+## Fonctionnalités :
+
+Les mesures du capteur DHT11
+
+![image](https://user-images.githubusercontent.com/69841466/148639846-d106c8b0-1612-40c5-9388-f21a8f6939bb.png)
+
+
 
