@@ -13,6 +13,13 @@ qui est devenue plus facile avec les solutions IoT qui, grâce à des capteurs p
 plusieurs coins de la pièce fournissent des informations tout à l’utilisateur de l’application.
 En effet, grâce au service de géolocalisation dans le smartphone, le client sera averti de la
 situation de sa maison dès qu’il s’éloigne d’une distance seuil.
+## Architecture Globale de notre solution :
+
+![image](https://user-images.githubusercontent.com/69841466/148639981-bbbf595a-df57-4239-8689-53691eb223aa.png)
+
+
+
+
 ## Technologies utilisées
 Ionic 5.6.12
 
@@ -31,6 +38,7 @@ Mosquitto Broker
 MQTT
 ## matériel utilisé pour l'IoT
 DHT22
+
 
 Arduino
 
