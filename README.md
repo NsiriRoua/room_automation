@@ -53,9 +53,19 @@ Login Page :
 
 ![image](https://user-images.githubusercontent.com/57712621/148639987-cce8a59e-4067-42f3-9882-f7f219835cbf.png)
 
+Si l'utilisateur n'existe pas, l'authentification échoue.Une message d'erreur s'affiche et l'utilisateur doit s'enregistrer avant de s'inscrire.
+
+![image](https://user-images.githubusercontent.com/69841466/148640269-40f942f0-cc2b-4829-b947-e3214c0b8dd6.png)
+
+
 Register Page
 
 ![image](https://user-images.githubusercontent.com/57712621/148640041-4406eb4d-9c1f-4eb7-a93e-040973951e8c.png)
+
+Si l'utilisateur est déja enregistré , cette message s'affiche :
+
+![image](https://user-images.githubusercontent.com/69841466/148640307-84d36e27-8909-4c8d-8def-8ee343ba7b97.png)
+
 
 Localisation Page :
 
