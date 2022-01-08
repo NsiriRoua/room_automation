@@ -10,11 +10,18 @@ plusieurs coins de la pièce fournissent des informations tout à l’utilisateu
 En effet, grâce au service de géolocalisation dans le smartphone, le client sera averti de la
 situation de sa maison dès qu’il s’éloigne d’une distance seuil.
 ## Technologies utilisées :
-Ionic 5.6.12:
+Ionic 5.6.12
+
 Capacitor
-Angular V13:
+
+Angular V13
+
 Node JS 
+
 Express
+
 MongoDB
+
 Mosquitto Broker
+
 MQTT
