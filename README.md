@@ -25,16 +25,16 @@ MongoDB
 Mosquitto Broker
 
 MQTT
-## matériel utilisé
+## matériel utilisé pour l'IoT
 DHT22
 
 Arduino
 
 Module WIFI ESP32
 
-## Fronte nd
+## Frontend
 ionic serve
 
 ## Backend
-npm start server.js
+npm start server.js pour mettre le serveur en marche et ionic serve pour que l'application soit lancée.
 
