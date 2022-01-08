@@ -25,7 +25,7 @@ MongoDB
 Mosquitto Broker
 
 MQTT
-## matériel utilisé pour l'IoT
+## Matériel utilisé pour l'IoT
 DHT22
 
 Arduino
