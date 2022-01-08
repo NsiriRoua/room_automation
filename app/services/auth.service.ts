@@ -65,11 +65,5 @@ this.storage.clear().then(res => {
 this.router.navigate(['/']);
 });
 }
-getUserByUsername(username: any): Observable<any> {
-    let data = {
-        username : username
-    };
-    return this.httpService.post('users/profile',data);
-}
 
   }
