@@ -13,13 +13,6 @@ qui est devenue plus facile avec les solutions IoT qui, grâce à des capteurs p
 plusieurs coins de la pièce fournissent des informations tout à l’utilisateur de l’application.
 En effet, grâce au service de géolocalisation dans le smartphone, le client sera averti de la
 situation de sa maison dès qu’il s’éloigne d’une distance seuil.
-## Architecture Globale de notre solution :
-
-![image](https://user-images.githubusercontent.com/69841466/148639981-bbbf595a-df57-4239-8689-53691eb223aa.png)
-
-
-
-
 ## Technologies utilisées
 Ionic 5.6.12
 
@@ -39,7 +32,6 @@ MQTT
 ## matériel utilisé pour l'IoT
 DHT22
 
-
 Arduino
 
 Module WIFI ESP32
@@ -54,6 +46,13 @@ npm start server.js pour mettre le serveur en marche et ionic serve pour que l'a
 Les mesures du capteur DHT11
 
 ![image](https://user-images.githubusercontent.com/69841466/148639846-d106c8b0-1612-40c5-9388-f21a8f6939bb.png)
+
+Login Page
+![image](https://user-images.githubusercontent.com/57712621/148639987-cce8a59e-4067-42f3-9882-f7f219835cbf.png)
+
+Register Page
+![image](https://user-images.githubusercontent.com/57712621/148640041-4406eb4d-9c1f-4eb7-a93e-040973951e8c.png)
+
 
 
 
