@@ -25,3 +25,10 @@ MongoDB
 Mosquitto Broker
 
 MQTT
+## matériel utilisé
+DHT22
+
+Arduino
+
+Module WIFI ESP32
+
