@@ -41,7 +41,7 @@ npm start server.js pour mettre le serveur en marche et ionic serve pour que l'a
 
 
 
-## Fonctionnalités :
+## Fonctionnalités 
 
 Les mesures du capteur DHT11
 
